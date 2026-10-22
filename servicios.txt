@@ -1,2 +1,2 @@
-Servicios 1
-Servicios DNS
+SSH: activo (revisado)
+DNS: activo
